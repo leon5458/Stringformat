@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StringFormat</string>
+
+    <string name="year_time">距离过年还有%1$s天%2$s小时%3$s分钟</string>
+    <string name="old_time">小明今年%1$d岁了</string>
+    <string name="xiang_time">%1$s那年刚好%2$d岁</string>
+
+
+</resources>
